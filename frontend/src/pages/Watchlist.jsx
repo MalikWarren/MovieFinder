@@ -34,7 +34,7 @@ function Watchlist() {
             <span className='feature-icon'>📱</span>
             <span>Access your watchlist from any device</span>
           </div>
-          <div className='feature'>
+          <div className='featurer'>
             <span className='feature-icon'>⭐</span>
             <span>Rate movies and track your favorites</span>
           </div>
